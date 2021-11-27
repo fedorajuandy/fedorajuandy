@@ -1,14 +1,10 @@
 ![Header](https://github.com/fedorajuandy/fedorajuandy/blob/main/GitHub%20Banner.gif "Header")
 
 # Heyaaa! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- I’m Fedora Yoshe Juandy a.k.a. @fedorajuandy
-- 👀 I’m interested in software engineering, computer science, technology in general, design, games, and tibits of many things such as languages, biology, etc.
-     I love learning new things and deepening what I have known.
+- 👀 I’m interested in software engineering, computer science, technology in general, design, games, and tibits of many things such as languages, biology, philosophy, and much more. I love learning new things and deepening what I have known.
 - 🌱 I’m currently learning computer science and machine learning, while improving in web and others.
-- 💞️ I’m looking to collaborate on any project.
-- 📫 How to reach me:
-     fedorajuandy@gmail.com
-     linkedin.com/in/fedora-juandy-552225204
+- 💞️ I’m looking to collaborate on any project and any opportunity to take a step forward in life while helping other people.
+- 📫 How to reach me: https://www.linkedin.com/in/fedora-juandy-552225204
 
 # Technologies
 '![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=007396)
@@ -27,7 +23,7 @@
 '![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=007ACC)
 '![](https://img.shields.io/badge/Editor-NetBeans-informational?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&color=1B6AC6)
 '![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=Android-Studio&logoColor=white&color=3DDC84)
-'![](https://img.shields.io/badge/Cloud-Google_Cloud?style=flat&logo=Google-Cloud&logoColor=white&color=4285F4)
+'![](https://img.shields.io/badge/Cloud-Google_Cloud-information?style=flat&logo=Google-Cloud&logoColor=white&color=4285F4)
 
 # Credits
 ## READMEs References
