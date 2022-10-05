@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning computer science and machine learning, while improving in web and others.
 - 💞️ I’m looking to collaborate on any project and any opportunity to take a step forward in life while helping other people.
 - 📫 How to reach me: https://www.linkedin.com/in/fedora-juandy-552225204
+- ... please do not mind any mess here; I'm still trying to figure things (life) up.
 
 # Technologies
 '![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=007396)
