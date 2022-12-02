@@ -1,11 +1,13 @@
 ![Header](https://github.com/fedorajuandy/fedorajuandy/blob/main/GitHub%20Banner.gif "Header")
 
 # Heyaaa! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 - 👀 I’m interested in software engineering, computer science, technology in general, design, games, and tibits of many things such as languages, biology, philosophy, and much more. I love learning new things and deepening what I have known.
 - 🌱 I’m currently learning computer science and machine learning, while improving in web and others.
 - 💞️ I’m looking to collaborate on any project and any opportunity to take a step forward in life while helping other people.
 - 📫 How to reach me: https://www.linkedin.com/in/fedora-juandy-552225204
 - ... please do not mind any mess here; I'm still trying to figure things (life) up.
+- For now, this account's public repositories are assignments. Yes, all of them.
 
 # Technologies
 '![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=007396)
@@ -27,14 +29,12 @@
 '![](https://img.shields.io/badge/Cloud-Google_Cloud-information?style=flat&logo=Google-Cloud&logoColor=white&color=4285F4)
 
 # Credits
-## READMEs References
-https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
-https://gist.github.com/sujinleeme/ec1f50bb0b6081a0adcf9dd84f4e6271
-## Banner Image
-https://unsplash.com/photos/9HGPvHThNME?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
-- Made using Canva
 
-<!---
-fedorajuandy/fedorajuandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## READMEs References
+
+- <a href="https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7">Build a Stunning README for Your GitHub Profile</a> by <a href="https://medium.com/@martin.heinz?source=post_page-----9b80434fe5d7--------------------------------">Martin Heinz</a>
+- <a href="https://gist.github.com/sujinleeme/ec1f50bb0b6081a0adcf9dd84f4e6271">A Beginners Guide to writing a Kickass README ✍</a> by <a href="https://gist.github.com/sujinleeme">Sujin Lee</a>
+
+## Banner Image
+
+Photo by <a href="https://unsplash.com/@comparefibre?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Compare Fibre</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> edited using <a href="https://www.canva.com/">Canva</a>
