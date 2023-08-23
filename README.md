@@ -40,6 +40,7 @@ I am interested in software engineering, computer science, games, and technology
 # Links
 
 - [LinkedIn](https://www.linkedin.com/in/fedora-juandy-552225204)
+- [Weights & Biases](https://wandb.ai/fedorajuandy)
 
 # Credits
 
