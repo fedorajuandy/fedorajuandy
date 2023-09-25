@@ -2,7 +2,7 @@
 
 # Brief Introduction
 
-I am interested in software engineering, computer science, games, and technology in general. I do love design in many forms; from UI/UX, graphical, to illustration (although I have to admit the illustration part is purely for my own personal) with tibits of many things such as languages, biology, philosophy, and whatever piques my attention at the moment. I love learning new things and deepening what I have known. I’m currently learning computer science and machine learning while improving in web and other stuff; whichever I feel like doing in my (scarce) free time.
+I am interested in software engineering, computer science, games, and technology in general. I do love design in many forms; from UI/UX, graphical, to illustration (although I have to admit the illustration part is purely for my own personal hobby) with tibits of many things such as music, languages, biology, philosophy, and whatever piques my attention at the moment. I love learning new things and deepening what I have known. I’m currently learning computer science and machine learning while improving in web and other stuff; whichever I feel like doing in my (scarce) free time.
 
 # Skills and Stuff
 
