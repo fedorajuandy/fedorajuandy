@@ -2,48 +2,83 @@
 
 Computer Science, Software Engineering Fresh Graduate from STMIK LIKMI.
 
----
+## Skills
 
-## Brief Introduction
+### Programming languages
 
-I am interested in games and technology in general. I do love design in many forms from UI/UX, graphical, to illustration with tibits of many things such as music, languages, biology, philosophy, and whatever piques my attention at the moment. I love learning new things and deepening what I have known. I’m currently learning frameworks and machine learning while keeping up with earlier and new knowledges.
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=264de4)
+'
+![](https://img.shields.io/badge/C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=044f88)
+'
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=e34f26)
+'
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=white&color=ed8b00)
+'
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=f7df1e)
+'
+![](https://img.shields.io/badge/PHP-informational?style=flat&logo=PHP&logoColor=white&color=4f5b93)
+'
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=4584b6)
+'
+![](https://img.shields.io/badge/SASS-informational?style=flat&logo=SASS&logoColor=white&color=c69)
 
-# Skills and Stuff
+### Databases
 
-## Languages
+![](https://img.shields.io/badge/Oracle_SQL-informational?style=flat&logo=Oracle&logoColor=white&color=ff0000)
+'
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=00758f)
 
-'![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=007396)
-'![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
-'![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=FCC624)
-'![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=FCC624)
-'![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=SASS&logoColor=white&color=FCC624)
-'![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)
-'![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=00599C)
-'![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=A8B9CC)
+### Frameworks
 
-## Databases
+![](https://img.shields.io/badge/Flask-informational?style=flat&logo=Flask&logoColor=black&color=ffffff)
+'
+![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=f55247)
 
-'![](https://img.shields.io/badge/Code-Oracle_SQL-informational?style=flat&logo=SQL&logoColor=white&color=F80000)
-'![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4479A1)
+### OS
 
-## OS
+![](https://img.shields.io/badge/Android-informational?style=flat&logo=Android&logoColor=white&color=a4c639)
+'
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=333333)
+'
+![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078d7)
 
-'![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=FCC624)
-'![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
-'![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=3DDC84)
+### Tools
 
-## Tools
+![](https://img.shields.io/badge/Android_Studio-informational?style=flat&logo=Android-Studio&logoColor=white&color=a4c639)
+'
+![](https://img.shields.io/badge/NetBeans-informational?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&color=1b6ac6)
+'
+![](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=0078d7)
+'
+![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=f24e1e)
 
-'![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=007ACC)
-'![](https://img.shields.io/badge/Editor-NetBeans-informational?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&color=1B6AC6)
-'![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=Android-Studio&logoColor=white&color=3DDC84)
+## Interests
 
-# Links
+<div>
+    <table>
+        <tr>
+            <td>Artificial intelligence</td>
+            <td>Design</td>
+            <td>Games</td>
+            <td>Languages</td>
+        </tr>
+        <tr>
+            <td>Machine learning</td>
+            <td>UI/UX</td>
+            <td>Technology in general</td>
+            <td>Reading</td>
+        </tr>
+        <tr>
+            <td>Deep learning</td>
+            <td>Figuring out stuff</td>
+            <td>Music</td>
+            <td>Writing</td>
+        </tr>
+    </table>
+</div>
 
+## Credits
 
+Profile image by <a href="https://pixabay.com/users/larisa-k-1107275/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2702381">Larisa Koshkina</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2702381">Pixabay</a>.
 
-# Credits
-
-Profile image by <a href="https://pixabay.com/users/larisa-k-1107275/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2702381">Larisa Koshkina</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2702381">Pixabay</a>
-
-Banner photo by <a href="https://unsplash.com/@comparefibre?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Compare Fibre</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> edited using <a href="https://www.canva.com/">Canva</a>
+Banner photo by <a href="https://unsplash.com/@comparefibre?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Compare Fibre</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> edited using <a href="https://www.canva.com/">Canva</a>.
