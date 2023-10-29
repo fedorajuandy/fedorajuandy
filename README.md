@@ -1,6 +1,14 @@
-![Header](https://github.com/fedorajuandy/fedorajuandy/blob/main/GitHub%20Banner.gif "Header")
+# Fedora Yoshe Juandy
 
-# Brief Introduction
+Computer Science, Software Engineering Fresh Graduate from STMIK LIKMI.
+
+> [LinkedIn](https://www.linkedin.com/in/fedora-juandy-552225204)
+> 
+> [Weights & Biases](https://wandb.ai/fedorajuandy)
+
+---
+
+## Brief Introduction
 
 I am interested in games and technology in general. I do love design in many forms from UI/UX, graphical, to illustration with tibits of many things such as music, languages, biology, philosophy, and whatever piques my attention at the moment. I love learning new things and deepening what I have known. I’m currently learning frameworks and machine learning while keeping up with earlier and new knowledges.
 
@@ -36,8 +44,7 @@ I am interested in games and technology in general. I do love design in many for
 
 # Links
 
-- [LinkedIn](https://www.linkedin.com/in/fedora-juandy-552225204)
-- [Weights & Biases](https://wandb.ai/fedorajuandy)
+
 
 # Credits
 
