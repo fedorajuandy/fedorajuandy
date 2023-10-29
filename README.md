@@ -2,10 +2,6 @@
 
 Computer Science, Software Engineering Fresh Graduate from STMIK LIKMI.
 
-> [LinkedIn](https://www.linkedin.com/in/fedora-juandy-552225204)
-> 
-> [Weights & Biases](https://wandb.ai/fedorajuandy)
-
 ---
 
 ## Brief Introduction
