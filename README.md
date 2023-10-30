@@ -1,6 +1,6 @@
 # Fedora Yoshe Juandy
 
-Computer Science, Software Engineering Fresh Graduate from STMIK LIKMI.
+Computer science, software engineering fresh graduate. Currently learning frameworks and machine learning.
 
 ## Skills
 
