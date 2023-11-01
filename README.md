@@ -1,6 +1,6 @@
 # Fedora Yoshe Juandy
 
-Computer science, software engineering fresh graduate. Currently learning frameworks and machine learning.
+Currently learning frameworks and machine learning.
 
 ## Skills
 
