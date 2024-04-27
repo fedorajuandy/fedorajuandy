@@ -56,7 +56,7 @@ Currently exploring machine learning and game development.
 '
 ![](https://img.shields.io/badge/NetBeans-informational?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&color=1b6ac6)
 '
-![](https://img.shields.io/badge/Unity-informational?style=flat&logo=Unity&logoColor=white&color=009688)
+![](https://img.shields.io/badge/Unity-informational?style=flat&logo=Unity&logoColor=white&color=626262)
 '
 ![](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=0078d7)
 '
