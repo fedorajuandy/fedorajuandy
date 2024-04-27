@@ -42,11 +42,11 @@ Currently exploring machine learning and game development.
 
 ![](https://img.shields.io/badge/Android-informational?style=flat&logo=Android&logoColor=white&color=a4c639)
 '
-![](https://img.shields.io/badge/iOS-informational?style=flat&logo=iOS&logoColor=white&color=black)
+![](https://img.shields.io/badge/iOS-informational?style=flat&logo=iOS&logoColor=white&color=A2AAAD)
 '
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=333333)
 '
-![](https://img.shields.io/badge/Mac-informational?style=flat&logo=Apple&logoColor=white&color=a4c639)
+![](https://img.shields.io/badge/Mac-informational?style=flat&logo=Apple&logoColor=white&color=A2AAAD)
 '
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078d7)
 
@@ -56,7 +56,7 @@ Currently exploring machine learning and game development.
 '
 ![](https://img.shields.io/badge/NetBeans-informational?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&color=1b6ac6)
 '
-![](https://img.shields.io/badge/Unity-informational?style=flat&logo=Unity&logoColor=white&color=black)
+![](https://img.shields.io/badge/Unity-informational?style=flat&logo=Unity&logoColor=white&color=009688)
 '
 ![](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=0078d7)
 '
