@@ -8,7 +8,7 @@ Currently exploring machine learning and game development.
 
 ![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=283593)
 '
-![](https://img.shields.io/badge/C#-informational?style=flat&logo=C%23&logoColor=white&color=280068)
+![](https://img.shields.io/badge/C%23-informational?style=flat&logo=C%23&logoColor=white&color=280068)
 '
 ![](https://img.shields.io/badge/C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=044f88)
 '
