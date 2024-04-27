@@ -1,14 +1,18 @@
 # Fedora Yoshe Juandy
 
-Currently learning frameworks and machine learning.
+Currently exploring machine learning and game development.
 
 ## Skills
 
 ### Programming languages
 
-![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=264de4)
+![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=283593)
 '
-![](https://img.shields.io/badge/C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=044f88)
+![](https://img.shields.io/badge/C#-informational?style=flat&logo=C%23&logoColor=white&color=280068)
+'
+![](https://img.shields.io/badge/C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=044f88)
+'
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=264de4)
 '
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=e34f26)
 '
@@ -38,7 +42,11 @@ Currently learning frameworks and machine learning.
 
 ![](https://img.shields.io/badge/Android-informational?style=flat&logo=Android&logoColor=white&color=a4c639)
 '
+![](https://img.shields.io/badge/iOS-informational?style=flat&logo=iOS&logoColor=white&color=black)
+'
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=333333)
+'
+![](https://img.shields.io/badge/Mac-informational?style=flat&logo=Apple&logoColor=white&color=a4c639)
 '
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078d7)
 
@@ -47,6 +55,8 @@ Currently learning frameworks and machine learning.
 ![](https://img.shields.io/badge/Android_Studio-informational?style=flat&logo=Android-Studio&logoColor=white&color=a4c639)
 '
 ![](https://img.shields.io/badge/NetBeans-informational?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&color=1b6ac6)
+'
+![](https://img.shields.io/badge/Unity-informational?style=flat&logo=Unity&logoColor=white&color=black)
 '
 ![](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=0078d7)
 '
@@ -80,5 +90,3 @@ Currently learning frameworks and machine learning.
 ## Credits
 
 Profile image by <a href="https://pixabay.com/users/larisa-k-1107275/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2702381">Larisa Koshkina</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2702381">Pixabay</a>.
-
-Banner photo by <a href="https://unsplash.com/@comparefibre?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Compare Fibre</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> edited using <a href="https://www.canva.com/">Canva</a>.
