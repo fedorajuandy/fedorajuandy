@@ -34,6 +34,8 @@ Currently exploring machine learning and game development.
 
 ### Frameworks
 
+![](https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=ffffff)
+'
 ![](https://img.shields.io/badge/Flask-informational?style=flat&logo=Flask&logoColor=black&color=ffffff)
 '
 ![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=f55247)
