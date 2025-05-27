@@ -70,18 +70,15 @@ Currently exploring machine learning and game development.
     <table>
         <tr>
             <td>Artificial intelligence</td>
-            <td>UI/UX</td>
             <td>Reading</td>
         </tr>
         <tr>
-            <td>UI/UX</td>
+            <td>Design</td>
             <td>Puzzles</td>
-            <td>Writing</td>
         </tr>
         <tr>
             <td>Games</td>
-            <td>Design</td>
-            <td>Puzzles</td>
+            <td>Writing</td>
         </tr>
     </table>
 </div>
