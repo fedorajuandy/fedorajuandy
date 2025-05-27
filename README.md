@@ -70,21 +70,18 @@ Currently exploring machine learning and game development.
     <table>
         <tr>
             <td>Artificial intelligence</td>
-            <td>Design</td>
-            <td>Games</td>
-            <td>Languages</td>
-        </tr>
-        <tr>
-            <td>Machine learning</td>
             <td>UI/UX</td>
-            <td>Technology in general</td>
             <td>Reading</td>
         </tr>
         <tr>
-            <td>Deep learning</td>
-            <td>Figuring out stuff</td>
-            <td>Music</td>
+            <td>UI/UX</td>
+            <td>Puzzles</td>
             <td>Writing</td>
+        </tr>
+        <tr>
+            <td>Games</td>
+            <td>Design</td>
+            <td>Puzzles</td>
         </tr>
     </table>
 </div>
